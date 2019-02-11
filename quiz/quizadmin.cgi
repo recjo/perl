@@ -3,7 +3,7 @@
 ############################################################
 #
 #
-#           Perl CGI Script allows adminstratot to easily change the weekly quiz
+#           Perl CGI Script allows administrator to easily change the weekly quiz
 #           questions. It reads a file named 'weeklyquiz'.
 #           Author: Joel Recinos.
 #
